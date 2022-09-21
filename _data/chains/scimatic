@@ -1,0 +1,23 @@
+{
+  "name": "Scimatic Coin",
+  "chain": "SCI",
+  "rpc": ["https://chain.scimatic.net/"],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Scimatic",
+    "symbol": "SCI",
+    "decimals": 18
+  },
+  "infoURL": "https://scimatic.net",
+  "shortName": "SCI",
+  "chainId": 481,
+  "networkId": 481,
+  "icon": "scimatic",
+  "explorers": [
+    {
+      "name": "scimatic",
+      "url": "https://explorer.scimatic.net",
+      "standard": "EIP3091"
+    }
+  ]
+}
